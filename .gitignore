@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+~$*
+.DS_Store
+.env
+*.env
+*.log
+qa_render*/
+qa_work/
+*.tmp
+*.bak
+courseware/.~lock.*
+courseware/archive/
+
